@@ -1,6 +1,14 @@
 body{
-    background-color:darkslategrey
+    background-color:antiquewhite
 }
 .container{
-    width: 60%;
+    width: 40%;
+}
+li {
+   list-style-type: none; 
+
+}
+h2{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
 }
